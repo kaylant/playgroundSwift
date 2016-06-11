@@ -3,7 +3,7 @@
 import UIKit
 
 // start with an example number
-var number = 99
+var number = 34
 
 // start with a boolean
 var isPrime = true
